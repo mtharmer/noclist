@@ -31,3 +31,12 @@ Then install the gems with the following command:
 And finally, run the test suite using this command:
 
 `bundle exec rspec`
+
+# Development Environment
+This program was developed on a CentOS 9 VM with the following software and versions:
+
+* Ruby v3.0.4
+* Gem v3.2.33
+* Docker (podman) v4.7.0
+* Bundler v2.3.22
+* Visual Studio Code v1.71.2
